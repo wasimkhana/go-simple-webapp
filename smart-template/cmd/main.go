@@ -6,8 +6,7 @@ import (
 	"log"
 	"net/http"
 	"os"
-
-	"github.com/lss/webapp/viewmodel"
+	"smart-template/cmd/viewmodel"
 )
 
 func main() {
